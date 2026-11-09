@@ -1,0 +1,98 @@
+[
+    {
+        "id": 1,
+        "word": "necessary",
+        "translations": ["необходимый", "нужный"],
+        "weight": 2
+    },
+    {
+        "id": 2,
+        "word": "environment",
+        "translations": ["окружающая среда", "окружение"],
+        "weight": 2
+    },
+    {
+        "id": 3,
+        "word": "improve",
+        "translations": ["улучшать", "улучшить"],
+        "weight": 3
+    },
+    {
+        "id": 4,
+        "word": "although",
+        "translations": ["хотя", "несмотря на то что"],
+        "weight": 2
+    },
+    {
+        "id": 5,
+        "word": "require",
+        "translations": ["требовать"],
+        "weight": 2
+    },
+    {
+        "id": 6,
+        "word": "usually",
+        "translations": ["обычно"],
+        "weight": 3
+    },
+    {
+        "id": 7,
+        "word": "travel",
+        "translations": ["путешествовать", "путешествие"],
+        "weight": 3
+    },
+    {
+        "id": 8,
+        "word": "programmer",
+        "translations": ["программист"],
+        "weight": 3
+    },
+    {
+        "id": 9,
+        "word": "knowledge",
+        "translations": ["знание", "знания"],
+        "weight": 2
+    },
+    {
+        "id": 10,
+        "word": "different",
+        "translations": ["разный", "различный"],
+        "weight": 3
+    },
+    {
+        "id": 11,
+        "word": "experience",
+        "translations": ["опыт", "впечатление"],
+        "weight": 2
+    },
+    {
+        "id": 12,
+        "word": "development",
+        "translations": ["развитие", "разработка"],
+        "weight": 2
+    },
+    {
+        "id": 13,
+        "word": "important",
+        "translations": ["важный"],
+        "weight": 3
+    },
+    {
+        "id": 14,
+        "word": "language",
+        "translations": ["язык"],
+        "weight": 3
+    },
+    {
+        "id": 15,
+        "word": "mistake",
+        "translations": ["ошибка"],
+        "weight": 2
+    },
+    {
+        "id": 16,
+        "word": "you",
+        "translations": ["ты"],
+        "weight": 4
+    }
+]

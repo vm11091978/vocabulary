@@ -1,0 +1,122 @@
+{
+    "4": {
+        "attempts": 1,
+        "correct": 1,
+        "spelling_errors": 0,
+        "unknown": 0,
+        "spelling_score": 2,
+        "mistakes": 0,
+        "last_seen": "2026-09-26 12:07:43",
+        "recent_scores": [
+            2
+        ]
+    },
+    "5": {
+        "attempts": 1,
+        "correct": 1,
+        "spelling_errors": 0,
+        "unknown": 0,
+        "spelling_score": 2,
+        "mistakes": 0,
+        "last_seen": "2026-09-26 12:07:55",
+        "recent_scores": [
+            2
+        ]
+    },
+    "11": {
+        "attempts": 1,
+        "correct": 0,
+        "spelling_errors": 0,
+        "unknown": 1,
+        "spelling_score": 0,
+        "mistakes": 1,
+        "last_seen": "2026-09-26 12:08:11",
+        "recent_scores": [
+            0
+        ]
+    },
+    "1": {
+        "attempts": 1,
+        "correct": 1,
+        "spelling_errors": 0,
+        "unknown": 0,
+        "spelling_score": 2,
+        "mistakes": 0,
+        "last_seen": "2026-09-26 12:09:05",
+        "recent_scores": [
+            2
+        ]
+    },
+    "16": {
+        "attempts": 1,
+        "correct": 1,
+        "spelling_errors": 0,
+        "unknown": 0,
+        "spelling_score": 2,
+        "mistakes": 0,
+        "last_seen": "2026-09-26 12:09:10",
+        "recent_scores": [
+            2
+        ]
+    },
+    "10": {
+        "attempts": 1,
+        "correct": 1,
+        "spelling_errors": 0,
+        "unknown": 0,
+        "spelling_score": 2,
+        "mistakes": 0,
+        "last_seen": "2026-09-26 12:09:18",
+        "recent_scores": [
+            2
+        ]
+    },
+    "9": {
+        "attempts": 1,
+        "correct": 0,
+        "spelling_errors": 1,
+        "unknown": 0,
+        "spelling_score": 1,
+        "mistakes": 1,
+        "last_seen": "2026-09-26 12:10:02",
+        "recent_scores": [
+            1
+        ]
+    },
+    "6": {
+        "attempts": 1,
+        "correct": 1,
+        "spelling_errors": 0,
+        "unknown": 0,
+        "spelling_score": 2,
+        "mistakes": 0,
+        "last_seen": "2026-09-26 12:10:11",
+        "recent_scores": [
+            2
+        ]
+    },
+    "8": {
+        "attempts": 1,
+        "correct": 1,
+        "spelling_errors": 0,
+        "unknown": 0,
+        "spelling_score": 2,
+        "mistakes": 0,
+        "last_seen": "2026-09-26 12:10:23",
+        "recent_scores": [
+            2
+        ]
+    },
+    "12": {
+        "attempts": 1,
+        "correct": 1,
+        "spelling_errors": 0,
+        "unknown": 0,
+        "spelling_score": 2,
+        "mistakes": 0,
+        "last_seen": "2026-09-26 12:10:36",
+        "recent_scores": [
+            2
+        ]
+    }
+}
